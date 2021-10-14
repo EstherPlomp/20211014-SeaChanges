@@ -2,6 +2,7 @@
 
 Name / Github account / **What specific aspect of GitHub do you find challenging?**
 * Esther Plomp / EstherPlomp / Merging conflicts
+*  rachelblevis2 / RachelBlevis / **try2**
 * 
 * 
 * 
