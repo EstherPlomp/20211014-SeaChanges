@@ -3,7 +3,7 @@
 Name / Github account / **What specific aspect of GitHub do you find challenging?**
 * Esther Plomp / EstherPlomp / Merging conflicts
 * 
-* 
+* Giulia Zampirolo/GiuliaZ538/Format
 * 
 * 
 * 
